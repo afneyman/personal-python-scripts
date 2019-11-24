@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="521fb381-b01b-4eeb-8ee5-984c1e7528bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/python-scripts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Seats Available.app/Contents/Info.plist" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Seats Available.app/Contents/MacOS/Seats Available" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Seats Available.app/Contents/Resources/AppIcon.icns" afterDir="false" />
@@ -690,9 +697,8 @@
       <change afterPath="$PROJECT_DIR$/dist/seats-available.app/Contents/Resources/lib/python37.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/dist/seats-available.app/Contents/Resources/seats-available.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/dist/seats-available.app/Contents/Resources/zlib.cpython-37m-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seats-available.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seats-available.py" beforeDir="false" afterPath="$PROJECT_DIR$/seats-available.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -773,7 +779,7 @@
       <workItem from="1574450927064" duration="8380000" />
       <workItem from="1574551693143" duration="6358000" />
       <workItem from="1574607348758" duration="474000" />
-      <workItem from="1574621925783" duration="245000" />
+      <workItem from="1574621925783" duration="490000" />
     </task>
     <servers />
   </component>
