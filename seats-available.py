@@ -1,14 +1,24 @@
+<<<<<<< HEAD
 import config
 from selenium import webdriver
+=======
+from selenium import webdriver
+from selenium.common.exceptions import TimeoutException
+>>>>>>> f73b2d902a82763e102d6fcb2d64fc1c66146e56
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 from twilio.rest import Client
 
+<<<<<<< HEAD
 
 # the following line needs your Twilio Account SID and Auth Token
 client = Client(config.sid, config.token)
+=======
+# the following line needs your Twilio Account SID and Auth Token
+client = Client("ACd528899d020e1f90c48c4698a3a3327c", "65108d97a895ad092ed0ef1a7d989f5a")
+>>>>>>> f73b2d902a82763e102d6fcb2d64fc1c66146e56
 
 
 desired_classes = ["eecs 345", "eecs 340", "math 307"]
@@ -85,8 +95,14 @@ text_string.append(search_for_class('MATH 307'))
 
 text = splitter.join(text_string)
 
+<<<<<<< HEAD
 client.messages.create(to=config.my_number,
                        from_=config.twilio_number,
                        body=text)
 
 browser.quit()
+=======
+client.messages.create(to="+12165341514",
+                       from_="+13172155488",
+                       body=text)
+>>>>>>> f73b2d902a82763e102d6fcb2d64fc1c66146e56

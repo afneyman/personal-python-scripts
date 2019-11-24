@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="521fb381-b01b-4eeb-8ee5-984c1e7528bd" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
@@ -700,6 +701,9 @@
       <change afterPath="$PROJECT_DIR$/seats-available.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
+=======
+    <list default="true" id="521fb381-b01b-4eeb-8ee5-984c1e7528bd" name="Default Changelist" comment="" />
+>>>>>>> f73b2d902a82763e102d6fcb2d64fc1c66146e56
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -710,11 +714,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Tz7A1ORoci9E5bQYB7xgRXma4e" />
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+=======
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+>>>>>>> f73b2d902a82763e102d6fcb2d64fc1c66146e56
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -742,9 +752,12 @@
       <module name="python-scripts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+<<<<<<< HEAD
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+=======
+>>>>>>> f73b2d902a82763e102d6fcb2d64fc1c66146e56
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -777,9 +790,13 @@
       <option name="presentableId" value="Default" />
       <updated>1574450922739</updated>
       <workItem from="1574450927064" duration="8380000" />
+<<<<<<< HEAD
       <workItem from="1574551693143" duration="6358000" />
       <workItem from="1574607348758" duration="474000" />
       <workItem from="1574621925783" duration="490000" />
+=======
+      <workItem from="1574551693143" duration="4400000" />
+>>>>>>> f73b2d902a82763e102d6fcb2d64fc1c66146e56
     </task>
     <servers />
   </component>
@@ -799,7 +816,10 @@
       </map>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
+=======
+>>>>>>> f73b2d902a82763e102d6fcb2d64fc1c66146e56
 </project>
