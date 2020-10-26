@@ -9,7 +9,7 @@ from twilio.rest import Client
 client = Client(config.sid, config.token)
 
 desired_classes = ["eecs 345", "eecs 340", "math 307"]
-browser = webdriver.Chrome()
+browser = webdriver.Firefox()
 wait = WebDriverWait(browser, 5)
 
 
@@ -28,7 +28,7 @@ def check_loading():
 
 
 def click_spring():
-    sid = 'SSR_CSTRMCUR_GRD$0_row_1'
+    sid = 'win1divSSR_CSTRMCUR_GRD$grid$0'
     check_loading()
     element = wait.until(EC.element_to_be_clickable((By.ID, sid)))
     # if you dont sleep an error will be caused
@@ -73,12 +73,17 @@ def seats_available(name):
 
 
 setup()
-text_string = []
+text_string = ['\n']
 splitter = '\n'
 text_string.append(search_for_class('EECS 325'))
 text_string.append(search_for_class('EECS 345'))
 text_string.append(search_for_class('EECS 340'))
 text_string.append(search_for_class('MATH 307'))
+text_string.append(search_for_class('EECS 393'))
+text_string.append(search_for_class('EECS 341'))
+text_string.append(search_for_class('MATH 380'))
+text_string.append(search_for_class('COGS 202'))
+text_string.append(search_for_class('COGS 272'))
 
 text = splitter.join(text_string)
 
